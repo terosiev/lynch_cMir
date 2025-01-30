@@ -1,0 +1,156 @@
+Sample	Filename	Type	Health	NGS	Healthy2	Healthy3	Healthy_now
+sample001.tsv	LS_1	LS	Healthy	two	YES	YES	YES
+sample002.tsv	LS_2	LS	Healthy	one	YES	YES	YES
+sample003.tsv	LS_3	LS	Healthy	three	YES	YES	YES
+sample004.tsv	LS_4	LS	Healthy	one			YES
+sample005.tsv	LS_5	LS	Healthy	two	YES	YES	YES
+sample006.tsv	LS_6	LS	Future_ca	three		NO	NO
+sample007.tsv	LS_7	LS	Healthy	one	YES	YES	YES
+sample008.tsv	LS_8	LS	Healthy	one			YES
+sample009.tsv	LS_9	LS	Healthy	one			YES
+sample010.tsv	LS_10	LS	Polyp	one		YES	YES
+sample011.tsv	LS_11	LS	Healthy	two			YES
+sample012.tsv	LS_12	LS	Cancer	one	NO		NO
+sample013.tsv	LS_13	LS	Healthy	one			YES
+sample014.tsv	LS_14	LS	Healthy	one	YES	YES	YES
+sample015.tsv	LS_15	LS	Healthy	one	YES	YES	YES
+sample016.tsv	LS_16	LS	Adenoma	three		NO	YES
+sample017.tsv	LS_17	LS	Polyp	two			YES
+sample018.tsv	CT_1	CTRL	Healthy	one			
+sample019.tsv	LS_18	LS	Healthy	two	YES		YES
+sample020.tsv	LS_19	LS	Adenoma	three		NO	YES
+sample021.tsv	LS_20	LS	Polyp	three			YES
+sample022.tsv	LS_21	LS	Adenoma	three		NO	YES
+sample023.tsv	CT_2	CTRL	Healthy	three			
+sample024.tsv	LS_22	LS	Adenoma	one		NO	YES
+sample025.tsv	LS_23	LS	Healthy	two	YES	YES	YES
+sample026.tsv	LS_24	LS	Adenoma	three		NO	YES
+sample027.tsv	LS_25	LS	Healthy	one	YES	YES	YES
+sample028.tsv	CT_3	CTRL	Healthy	one			
+sample029.tsv	LS_26	LS	Healthy	one			YES
+sample030.tsv	SR_1	SRME	Cancer	three			
+sample031.tsv	CT_4	CTRL	Healthy	three			
+sample032.tsv	LS_27	LS	Cancer	one	NO		NO
+sample033.tsv	LS_28	LS	Future_ca	three		NO	NO
+sample034.tsv	LS_29	LS	Healthy	two	YES	YES	YES
+sample035.tsv	LS_30	LS	Healthy	two	YES	YES	YES
+sample036.tsv	LS_31	LS	Healthy	two			YES
+sample037.tsv	CT_5	CTRL	Healthy	three			
+sample038.tsv	CT_6	CTRL	Healthy	three			
+sample039.tsv	CT_7	CTRL	Healthy	three			
+sample040.tsv	CT_8	CTRL	Healthy	three			
+sample041.tsv	LS_32	LS	Healthy	two			YES
+sample042.tsv	LS_33	LS	Healthy	three	YES	YES	YES
+sample043.tsv	LS_34	LS	Healthy	one			YES
+sample044.tsv	LS_35	LS	Healthy	one	YES	YES	YES
+sample045.tsv	SR_2	SRME	Cancer	three			
+sample046.tsv	CT_9	CTRL	Healthy	one			
+sample047.tsv	SR_3	SRME	Cancer	three			
+sample048.tsv	LS_36	LS	Healthy	one			YES
+sample049.tsv	LS_37	LS	Healthy	one	YES	YES	YES
+sample050.tsv	CT_10	CTRL	Healthy	three			
+sample051.tsv	LS_38	LS	Healthy	two			YES
+sample052.tsv	CT_11	CTRL	Healthy	three			
+sample053.tsv	CT_12	CTRL	Healthy	two			
+sample054.tsv	LS_39	LS	Healthy	two			YES
+sample055.tsv	LS_40	LS	Adenoma	one		NO	YES
+sample056.tsv	LS_41	LS	Healthy	one			YES
+sample057.tsv	SR_4	SRME	Cancer	three			
+sample058.tsv	SR_5	SRME	Cancer	one			
+sample059.tsv	SR_6	SRME	Cancer	two			
+sample060.tsv	LS_42	LS	Healthy	one	YES	YES	YES
+sample061.tsv	SR_7	SRME	Cancer	three		NO	
+sample062.tsv	CT_13	CTRL	Healthy	two			
+sample063.tsv	LS_43	LS	Cancer	three	NO	NO	NO
+sample064.tsv	LS_44	LS	Healthy	one			YES
+sample065.tsv	SR_8	SRME	Cancer	three			
+sample066.tsv	LS_45	LS	Healthy	one	YES	YES	YES
+sample067.tsv	SR_9	SRME	Cancer	two			
+sample068.tsv	LS_46	LS	Healthy	two	YES	YES	YES
+sample069.tsv	LS_47	LS	Healthy	one			YES
+sample070.tsv	LS_48	LS	Healthy	two	YES	YES	YES
+sample071.tsv	CT_14	CTRL	Healthy	three			
+sample072.tsv	CT_15	CTRL	Healthy	three			
+sample073.tsv	CT_16	CTRL	Healthy	three			
+sample074.tsv	SR_10	SRME	Cancer	one			
+sample075.tsv	SR_11	SRME	Cancer	three			
+sample076.tsv	CT_17	CTRL	Healthy	three			
+sample077.tsv	LS_49	LS	Polyp	three			YES
+sample078.tsv	CT_18	CTRL	Healthy	three			
+sample079.tsv	CT_19	CTRL	Healthy	two			
+sample080.tsv	CT_20	CTRL	Healthy	three			
+sample081.tsv	CT_21	CTRL	Healthy	two			
+sample082.tsv	LS_50	LS	Healthy	one			YES
+sample083.tsv	LS_51	LS	Healthy	one	YES	YES	YES
+sample084.tsv	SR_12	SRME	Cancer	two			
+sample085.tsv	CT_22	CTRL	Healthy	one			
+sample086.tsv	CT_23	CTRL	Healthy	one			
+sample087.tsv	SR_13	SRME	Cancer	one			
+sample088.tsv	SR_14	SRME	Cancer	two			
+sample089.tsv	LS_52	LS	Healthy	one			YES
+sample090.tsv	LS_53	LS	lienalis tubulovillosum et tubulare, sigmoid tubulovillosum et tubulare, rectum tubulare	two			YES
+sample091.tsv	LS_54	LS	Adenoma	three		NO	YES
+sample092.tsv	CT_24	CTRL	Healthy	two			
+sample093.tsv	CT_25	CTRL	Healthy	three			
+sample094.tsv	LS_55	LS	Healthy	three			YES
+sample095.tsv	LS_56	LS	Adenoma	two		NO	YES
+sample096.tsv	LS_57	LS	Cancer	two	NO		NO
+sample097.tsv	LS_58	LS	Healthy	three			YES
+sample098.tsv	SR_15	SRME	Cancer	three			
+sample099.tsv	SR_16	SRME	Cancer	one			
+sample100.tsv	LS_59	LS	Healthy	one	YES	YES	YES
+sample101.tsv	SR_17	SRME	Cancer	one			
+sample102.tsv	SR_18	SRME	Cancer	one			
+sample103.tsv	CT_26	CTRL	Healthy	one			
+sample104.tsv	LS_60	LS	Healthy	three			YES
+sample105.tsv	CT_27	CTRL	Healthy	one			
+sample106.tsv	CT_28	CTRL	Healthy	three			
+sample107.tsv	CT_29	CTRL	Healthy	two			
+sample108.tsv	CT_30	CTRL	Healthy	two			
+sample109.tsv	CT_31	CTRL	Healthy	three			
+sample110.tsv	LS_61	LS	Healthy	three			YES
+sample111.tsv	LS_62	LS	Cancer	one	NO		NO
+sample112.tsv	SR_19	SRME	Cancer	one			
+sample113.tsv	SR_20	SRME	Cancer	one			
+sample114.tsv	SR_21	SRME	Cancer	one			
+sample115.tsv	SR_22	SRME	Cancer	two			
+sample116.tsv	LS_63	LS	Adenoma	two		NO	YES
+sample117.tsv	LS_64	LS	Healthy	one	YES	YES	YES
+sample118.tsv	LS_65	LS	Healthy	two	YES	YES	YES
+sample119.tsv	LS_66	LS	Adenoma	two		NO	YES
+sample120.tsv	LS_67	LS	Healthy	one			YES
+sample121.tsv	CT_32	CTRL	Healthy	one			
+sample122.tsv	LS_68	LS	Adenoma	one		NO	YES
+sample123.tsv	SR_23	SRME	Cancer	two			
+sample124.tsv	SR_24	SRME	Cancer	one			
+sample125.tsv	LS_69	LS	Adenoma	one		NO	YES
+sample126.tsv	LS_70	LS	Cancer	one	NO		NO
+sample127.tsv	LS_71	LS	Healthy	two			YES
+sample128.tsv	LS_72	LS	Adenoma	three		NO	YES
+sample129.tsv	CT_33	CTRL	Healthy	three			
+sample130.tsv	CT_34	CTRL	Healthy	three			
+sample131.tsv	LS_73	LS	Healthy	two	YES	YES	YES
+sample132.tsv	LS_74	LS	Healthy	three			YES
+sample133.tsv	LS_75	LS	Adenoma	one		NO	YES
+sample134.tsv	LS_76	LS	Healthy	one			YES
+sample135.tsv	LS_77	LS	Cancer	three	NO		NO
+sample136.tsv	LS_78	LS	Healthy	three			YES
+sample137.tsv	LS_79	LS	Healthy	two			YES
+sample138.tsv	LS_80	LS	Healthy	two			YES
+sample139.tsv	LS_81	LS	Cancer	three	NO		NO
+sample140.tsv	LS_82	LS	Healthy	one	YES	YES	YES
+sample141.tsv	LS_83	LS	Chronic inflammation	three			YES
+sample142.tsv	LS_84	LS	Future_ca	one		NO	NO
+sample143.tsv	LS_85	LS	Cancer	one	NO		NO
+sample144.tsv	LS_86	LS	Adenoma	three		NO	YES
+sample145.tsv	LS_87	LS	Adenoma	one		NO	YES
+sample146.tsv	LS_88	LS	Adenoma	three		NO	YES
+sample147.tsv	LS_89	LS	Healthy	three	YES	YES	YES
+sample148.tsv	LS_90	LS	Adenoma	three		NO	YES
+sample149.tsv	LS_91	LS	Healthy	three	YES	YES	YES
+sample150.tsv	CT_35	CTRL	Healthy	one			
+sample151.tsv	LS_92	LS	Healthy	one			YES
+sample152.tsv	LS_93	LS	Future_ca	three		NO	NO
+sample153.tsv	CT_36	CTRL	Healthy	one			
+sample154.tsv	CT_37	CTRL	Healthy	three			
+sample155.tsv	LS_94	LS	Healthy	three	YES	YES	YES
